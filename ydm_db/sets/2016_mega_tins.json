@@ -1,0 +1,14 @@
+{
+  "name": "2016 Mega-Tins",
+  "code": "CT13",
+  "type": "Tin",
+  "date": "01-09-2016",
+  "image": "https://ygoprodeck.com/pics_sets/CT13.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "MP16",
+    "MP16",
+    "MP16",
+    "CT13_C"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2011 Wave 1",
+  "code": "CT08",
+  "type": "Tin",
+  "date": "25-08-2011",
+  "image": "https://ygoprodeck.com/pics_sets/CT08.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "STOR",
+    "STOR",
+    "HA04",
+    "HA04",
+    "EXVC",
+    "CT08_C"
+  ]
+}

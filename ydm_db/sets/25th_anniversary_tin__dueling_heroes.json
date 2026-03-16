@@ -1,0 +1,14 @@
+{
+  "name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+  "code": "TN23",
+  "type": "Mega Pack",
+  "date": "07-09-2024",
+  "image": "https://ygoprodeck.com/pics_sets/MP23.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "MP23",
+    "MP23",
+    "MP23",
+    "TN23_C"
+  ]
+}

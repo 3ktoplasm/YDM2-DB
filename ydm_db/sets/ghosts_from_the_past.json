@@ -1,0 +1,13 @@
+{
+  "name": "Ghosts From the Past",
+  "code": "GFTP",
+  "type": "Collector's Set",
+  "date": "15-04-2021",
+  "image": "https://ygoprodeck.com/pics_sets/GFTP.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "GFTP_P",
+    "GFTP_P",
+    "GFTP_P"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "25th Anniversary Tin: Dueling Mirrors",
+  "code": "MP24_T",
+  "type": "Mega Pack",
+  "date": "19-09-2024",
+  "image": "https://ms.yugipedia.com//6/6c/MP24-PromoEN.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "MP24",
+    "MP24",
+    "MP24"
+  ]
+}

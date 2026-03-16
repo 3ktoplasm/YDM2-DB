@@ -1,0 +1,16 @@
+{
+  "name": "Duelist League Series 10 participation card",
+  "code": "DL10",
+  "type": "Promotional Card",
+  "date": "28-04-2006",
+  "image": "https://ms.yugipedia.com//4/40/DL-PromoEN.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 20101223,
+      "code": "DL10-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

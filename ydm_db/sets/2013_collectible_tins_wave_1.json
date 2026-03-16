@@ -1,0 +1,16 @@
+{
+  "name": "2013 Collectible Tins Wave 1",
+  "code": "CT10",
+  "type": "Tin",
+  "date": "30-08-2013",
+  "image": "https://ygoprodeck.com/pics_sets/CT10.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "LTGY",
+    "LTGY",
+    "LTGY",
+    "JOTL",
+    "JOTL",
+    "CT10_C"
+  ]
+}

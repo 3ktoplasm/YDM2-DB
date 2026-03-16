@@ -1,0 +1,12 @@
+{
+  "name": "Quarter Century Stampede",
+  "code": "RA04",
+  "type": "Booster Pack",
+  "date": "11-04-2025",
+  "image": "https://ygoprodeck.com/pics_sets/RA04.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "RA04_N",
+    "RA04_M"
+  ]
+}

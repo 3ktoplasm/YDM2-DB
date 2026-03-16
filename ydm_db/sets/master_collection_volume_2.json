@@ -1,0 +1,16 @@
+{
+  "name": "Master Collection Volume 2",
+  "code": "MC2",
+  "type": "Promotional Set",
+  "date": "16-03-2006",
+  "image": "https://ms.yugipedia.com//f/f0/Master_Collection_2_Open.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "PGD",
+    "MFC",
+    "DCR",
+    "AST",
+    "EP1",
+    "MC2_C"
+  ]
+}

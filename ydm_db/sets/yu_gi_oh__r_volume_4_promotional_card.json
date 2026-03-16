@@ -1,0 +1,16 @@
+{
+  "name": "Yu-Gi-Oh! R Volume 4 promotional card",
+  "code": "YR04",
+  "type": "Manga Promotion",
+  "date": "29-04-2010",
+  "image": "https://ms.yugipedia.com//e/e8/YR04-PromoEN.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 56784842,
+      "code": "YR04-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

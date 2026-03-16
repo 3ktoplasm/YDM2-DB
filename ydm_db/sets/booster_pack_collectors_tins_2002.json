@@ -1,0 +1,17 @@
+{
+  "name": "Booster Pack Collectors Tins 2002",
+  "code": "BPT",
+  "type": "Tin",
+  "date": "04-10-2002",
+  "image": "https://ygoprodeck.com/pics_sets/BPT.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "LOB",
+    "LOB",
+    "MRD",
+    "MRD",
+    "SRL",
+    "SRL",
+    "BPT_C"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2012 Wave 1",
+  "code": "CT09",
+  "type": "Tin",
+  "date": "14-08-2012",
+  "image": "https://ygoprodeck.com/pics_sets/CT09.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "PHSW",
+    "PHSW",
+    "PHSW",
+    "GAOV",
+    "GAOV",
+    "CT09_C"
+  ]
+}

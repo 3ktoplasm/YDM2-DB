@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2009 Wave 1",
+  "code": "CT06",
+  "type": "Tin",
+  "date": "18-08-2009",
+  "image": "https://ygoprodeck.com/pics_sets/CT06.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "ANPR",
+    "ANPR",
+    "CRMS",
+    "CRMS",
+    "RGBT",
+    "CT06_C"
+  ]
+}

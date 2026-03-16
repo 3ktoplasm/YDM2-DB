@@ -1,0 +1,34 @@
+{
+  "name": "hidden_arsenal_chapter",
+  "pulls": [
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 14,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Duel Terminal Normal Parallel Rare"
+          ]
+        },
+        {
+          "count": 3,
+          "rarities": [
+            "Duel Terminal Ultra Parallel Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Secret Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "name": "limited_pack__stamp_edition",
+  "pulls": [
+    {
+      "weight": 14180,
+      "entries": [
+        {
+          "count": 4,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 10368,
+      "entries": [
+        {
+          "count": 3,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Secret Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 2592,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 2,
+          "rarities": [
+            "Secret Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 648,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 3,
+          "rarities": [
+            "Secret Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 162,
+      "entries": [
+        {
+          "count": 4,
+          "rarities": [
+            "Secret Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 6912,
+      "entries": [
+        {
+          "count": 3,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Prismatic Secret Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 1152,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 2,
+          "rarities": [
+            "Prismatic Secret Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 192,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 3,
+          "rarities": [
+            "Prismatic Secret Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 32,
+      "entries": [
+        {
+          "count": 4,
+          "rarities": [
+            "Prismatic Secret Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 1728,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Secret Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Prismatic Secret Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 437,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 2,
+          "rarities": [
+            "Secret Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Prismatic Secret Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 108,
+      "entries": [
+        {
+          "count": 3,
+          "rarities": [
+            "Secret Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Prismatic Secret Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 288,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Secret Rare"
+          ]
+        },
+        {
+          "count": 2,
+          "rarities": [
+            "Prismatic Secret Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 48,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Secret Rare"
+          ]
+        },
+        {
+          "count": 3,
+          "rarities": [
+            "Prismatic Secret Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

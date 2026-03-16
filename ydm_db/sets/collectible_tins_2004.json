@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2004",
+  "code": "CT1",
+  "type": "Tin",
+  "date": "01-09-2004",
+  "image": "https://ms.yugipedia.com//e/e4/CT1-PromoEN.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "PGD",
+    "MFC",
+    "DCR",
+    "IOC",
+    "AST",
+    "CT1_C"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "X-Saber Power-Up",
+  "code": "XSPU",
+  "type": "Special Edition",
+  "date": "23-11-2010",
+  "image": "https://ms.yugipedia.com//f/f4/XSPU-PromoEN.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "ANPR",
+    "ANPR",
+    "SOVR",
+    "HA01",
+    "XSPU_C"
+  ]
+}

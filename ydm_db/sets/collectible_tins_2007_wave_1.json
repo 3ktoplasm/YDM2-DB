@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2007 Wave 1",
+  "code": "CT04",
+  "type": "Tin",
+  "date": "29-08-2007",
+  "image": "https://ygoprodeck.com/pics_sets/CT04.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "EEN",
+    "POTD",
+    "CDIP",
+    "STON",
+    "FOTB",
+    "CT04_C"
+  ]
+}

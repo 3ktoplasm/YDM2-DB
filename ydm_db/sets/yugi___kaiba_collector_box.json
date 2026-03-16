@@ -1,0 +1,19 @@
+{
+  "name": "Yugi & Kaiba Collector Box",
+  "code": "KACB",
+  "type": "Collector Box",
+  "date": "29-03-2018",
+  "image": "https://ygoprodeck.com/pics_sets/KACB.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "YSYR",
+    "YSKR",
+    "DPYG",
+    "DPYG",
+    "DPYG",
+    "DPKB",
+    "DPKB",
+    "DPKB",
+    "KACB_C"
+  ]
+}

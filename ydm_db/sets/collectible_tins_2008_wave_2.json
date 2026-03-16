@@ -1,0 +1,15 @@
+{
+  "name": "Collectible Tins 2008 Wave 2",
+  "code": "CT05",
+  "type": "Tin",
+  "date": "03-11-2008",
+  "image": "https://ygoprodeck.com/pics_sets/CT05.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "PTDN",
+    "LODT",
+    "TDGS",
+    "CSOC",
+    "CT05_C"
+  ]
+}

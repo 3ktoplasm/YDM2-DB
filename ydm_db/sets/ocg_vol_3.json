@@ -1,0 +1,311 @@
+{
+  "name": "Vol.3",
+  "code": "VOL3",
+  "type": "Core Booster",
+  "date": "27-05-1999",
+  "image": "https://images.ygoprodeck.com/images/sets/VOL3.jpg",
+  "pull_type": "distribution",
+  "distribution": "ocg_vol_secret",
+  "cards": [
+    {
+      "id": 44519536,
+      "code": "VOL3-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32452818,
+      "code": "VOL3-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66889139,
+      "code": "VOL3-003",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91939608,
+      "code": "VOL3-004",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13039848,
+      "code": "VOL3-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74677422,
+      "code": "VOL3-006",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33066139,
+      "code": "VOL3-007",
+      "rarity": "Normal Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6840573,
+      "code": "VOL3-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40200834,
+      "code": "VOL3-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48365709,
+      "code": "VOL3-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36304921,
+      "code": "VOL3-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36904469,
+      "code": "VOL3-012",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98818516,
+      "code": "VOL3-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98795934,
+      "code": "VOL3-014",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54844990,
+      "code": "VOL3-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80516007,
+      "code": "VOL3-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71407486,
+      "code": "VOL3-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72299832,
+      "code": "VOL3-018",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9293977,
+      "code": "VOL3-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85326399,
+      "code": "VOL3-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45042329,
+      "code": "VOL3-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10202894,
+      "code": "VOL3-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9076207,
+      "code": "VOL3-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34536276,
+      "code": "VOL3-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95952802,
+      "code": "VOL3-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54652250,
+      "code": "VOL3-026",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73051941,
+      "code": "VOL3-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6367785,
+      "code": "VOL3-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68928540,
+      "code": "VOL3-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60694662,
+      "code": "VOL3-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7089711,
+      "code": "VOL3-031",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33178416,
+      "code": "VOL3-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93788854,
+      "code": "VOL3-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29172562,
+      "code": "VOL3-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55444629,
+      "code": "VOL3-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17238333,
+      "code": "VOL3-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43500484,
+      "code": "VOL3-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89904598,
+      "code": "VOL3-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16353197,
+      "code": "VOL3-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8058240,
+      "code": "VOL3-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17535588,
+      "code": "VOL3-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55291359,
+      "code": "VOL3-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1557499,
+      "code": "VOL3-043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1435851,
+      "code": "VOL3-044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37820550,
+      "code": "VOL3-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36607978,
+      "code": "VOL3-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63102017,
+      "code": "VOL3-047",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98252586,
+      "code": "VOL3-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55144522,
+      "code": "VOL3-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82542267,
+      "code": "VOL3-050",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

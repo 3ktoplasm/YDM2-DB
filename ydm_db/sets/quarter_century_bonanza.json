@@ -1,0 +1,12 @@
+{
+  "name": "Quarter Century Bonanza",
+  "code": "RA03",
+  "type": "Booster Pack",
+  "date": "07-11-2024",
+  "image": "https://ms.yugipedia.com//8/87/RA03-BoosterEN.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "RA03_M",
+    "RA03_N"
+  ]
+}

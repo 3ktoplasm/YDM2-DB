@@ -1,0 +1,14 @@
+{
+  "name": "Twilight Edition",
+  "code": "TWED",
+  "type": "Special Edition",
+  "date": "05-01-2010",
+  "image": "https://ms.yugipedia.com//4/4f/TWED-PromoEN.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "LODT",
+    "PTDN",
+    "TAEV",
+    "TWED_C"
+  ]
+}

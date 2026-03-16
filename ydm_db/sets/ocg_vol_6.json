@@ -1,0 +1,335 @@
+{
+  "name": "Vol.6",
+  "code": "VOL6",
+  "type": "Core Booster",
+  "date": "18-11-1999",
+  "image": "https://images.ygoprodeck.com/images/sets/VOL6.jpg",
+  "pull_type": "distribution",
+  "distribution": "ocg_vol_secret",
+  "cards": [
+    {
+      "id": 88819587,
+      "code": "VOL6-001",
+      "rarity": "Normal Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87564352,
+      "code": "VOL6-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18246479,
+      "code": "VOL6-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69669405,
+      "code": "VOL6-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55763552,
+      "code": "VOL6-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53829412,
+      "code": "VOL6-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80813021,
+      "code": "VOL6-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26202165,
+      "code": "VOL6-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15367030,
+      "code": "VOL6-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14141448,
+      "code": "VOL6-010",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14141448,
+      "code": "VOL6-011",
+      "rarity": "Ultra Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41462083,
+      "code": "VOL6-012",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41462083,
+      "code": "VOL6-013",
+      "rarity": "Ultra Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81618817,
+      "code": "VOL6-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89272878,
+      "code": "VOL6-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10071456,
+      "code": "VOL6-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30778711,
+      "code": "VOL6-017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51828629,
+      "code": "VOL6-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8471389,
+      "code": "VOL6-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71950093,
+      "code": "VOL6-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6400512,
+      "code": "VOL6-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69893315,
+      "code": "VOL6-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20848593,
+      "code": "VOL6-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23659124,
+      "code": "VOL6-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84103702,
+      "code": "VOL6-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12146024,
+      "code": "VOL6-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74703140,
+      "code": "VOL6-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8353769,
+      "code": "VOL6-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6297941,
+      "code": "VOL6-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67629977,
+      "code": "VOL6-030",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56907389,
+      "code": "VOL6-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80234301,
+      "code": "VOL6-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11384280,
+      "code": "VOL6-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42591472,
+      "code": "VOL6-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46657337,
+      "code": "VOL6-035",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8201910,
+      "code": "VOL6-036",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7489323,
+      "code": "VOL6-037",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60862676,
+      "code": "VOL6-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7805359,
+      "code": "VOL6-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78010363,
+      "code": "VOL6-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41403766,
+      "code": "VOL6-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68658728,
+      "code": "VOL6-042",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94042337,
+      "code": "VOL6-043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57935140,
+      "code": "VOL6-044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28470714,
+      "code": "VOL6-045",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17358176,
+      "code": "VOL6-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43352213,
+      "code": "VOL6-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80741828,
+      "code": "VOL6-048",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41396436,
+      "code": "VOL6-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24094653,
+      "code": "VOL6-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41420027,
+      "code": "VOL6-051",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77414722,
+      "code": "VOL6-052",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3819470,
+      "code": "VOL6-053",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98069388,
+      "code": "VOL6-054",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

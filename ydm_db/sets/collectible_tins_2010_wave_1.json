@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2010 Wave 1",
+  "code": "CT07",
+  "type": "Tin",
+  "date": "26-08-2010",
+  "image": "https://ygoprodeck.com/pics_sets/CT07.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "SOVR",
+    "ABPF",
+    "ABPF",
+    "TSHD",
+    "TSHD",
+    "CT07_C"
+  ]
+}

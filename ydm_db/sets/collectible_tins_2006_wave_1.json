@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2006 Wave 1",
+  "code": "CT03",
+  "type": "Tin",
+  "date": "11-09-2006",
+  "image": "https://ygoprodeck.com/pics_sets/CT03.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "CRV",
+    "CRV",
+    "EEN",
+    "SOI",
+    "EOJ",
+    "CT03_C"
+  ]
+}

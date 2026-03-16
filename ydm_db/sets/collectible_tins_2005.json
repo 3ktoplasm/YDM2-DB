@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2005",
+  "code": "CT2",
+  "type": "Tin",
+  "date": "01-09-2005",
+  "image": "https://ygoprodeck.com/pics_sets/CT2.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "SOD",
+    "RDS",
+    "FET",
+    "DB1",
+    "DR1",
+    "CT2_C"
+  ]
+}

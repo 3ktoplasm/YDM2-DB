@@ -1,0 +1,15 @@
+{
+  "name": "Duelist Pack Collection Tin 2011",
+  "code": "DPC5",
+  "type": "Tin",
+  "date": "05-04-2011",
+  "image": "https://ms.yugipedia.com//e/ed/DPC5-PromoEN.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "DP10",
+    "DP10",
+    "DP10",
+    "DREV",
+    "DPC5_C"
+  ]
+}

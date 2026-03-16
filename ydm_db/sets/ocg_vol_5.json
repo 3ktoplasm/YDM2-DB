@@ -1,0 +1,335 @@
+{
+  "name": "Vol.5",
+  "code": "VOL5",
+  "type": "Core Booster",
+  "date": "23-09-1999",
+  "image": "https://images.ygoprodeck.com/images/sets/VOL5.jpg",
+  "pull_type": "distribution",
+  "distribution": "ocg_vol_no_secret",
+  "cards": [
+    {
+      "id": 41392891,
+      "code": "VOL5-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88979991,
+      "code": "VOL5-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87756343,
+      "code": "VOL5-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20277860,
+      "code": "VOL5-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15150365,
+      "code": "VOL5-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62671448,
+      "code": "VOL5-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16768387,
+      "code": "VOL5-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40196604,
+      "code": "VOL5-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11901678,
+      "code": "VOL5-009",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11901678,
+      "code": "VOL5-010",
+      "rarity": "Ultra Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10189126,
+      "code": "VOL5-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19066538,
+      "code": "VOL5-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75499502,
+      "code": "VOL5-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38982356,
+      "code": "VOL5-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98582704,
+      "code": "VOL5-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97360116,
+      "code": "VOL5-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7670542,
+      "code": "VOL5-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25955164,
+      "code": "VOL5-018",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62340868,
+      "code": "VOL5-019",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98434877,
+      "code": "VOL5-020",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51228280,
+      "code": "VOL5-021",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26378150,
+      "code": "VOL5-022",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 99261403,
+      "code": "VOL5-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98049915,
+      "code": "VOL5-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12472242,
+      "code": "VOL5-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58861941,
+      "code": "VOL5-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10538007,
+      "code": "VOL5-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10315429,
+      "code": "VOL5-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70138455,
+      "code": "VOL5-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32809211,
+      "code": "VOL5-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46474915,
+      "code": "VOL5-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21347810,
+      "code": "VOL5-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15237615,
+      "code": "VOL5-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77998771,
+      "code": "VOL5-034",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32485271,
+      "code": "VOL5-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21263083,
+      "code": "VOL5-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29802344,
+      "code": "VOL5-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18180762,
+      "code": "VOL5-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16246527,
+      "code": "VOL5-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5901497,
+      "code": "VOL5-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77568553,
+      "code": "VOL5-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76446915,
+      "code": "VOL5-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2118022,
+      "code": "VOL5-043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64501875,
+      "code": "VOL5-044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79759861,
+      "code": "VOL5-045",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79759861,
+      "code": "VOL5-046",
+      "rarity": "Ultra Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5758500,
+      "code": "VOL5-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41142615,
+      "code": "VOL5-048",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41142615,
+      "code": "VOL5-049",
+      "rarity": "Ultra Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4031928,
+      "code": "VOL5-050",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4031928,
+      "code": "VOL5-051",
+      "rarity": "Ultra Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 3027001,
+      "code": "VOL5-052",
+      "rarity": "Normal Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42364257,
+      "code": "VOL5-053",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78637313,
+      "code": "VOL5-054",
+      "rarity": "Rare",
+      "image_index": 0
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Dragons of Legend: The Complete Series",
+  "code": "DLCS",
+  "type": "Collector's Pack",
+  "date": "11-09-2020",
+  "image": "https://ygoprodeck.com/pics_sets/DLCS.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "DLCS_P",
+    "DLCS_P"
+  ]
+}

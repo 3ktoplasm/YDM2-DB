@@ -1,0 +1,14 @@
+{
+  "name": "2018 Mega-Tins",
+  "code": "CT15",
+  "type": "Tin",
+  "date": "30-08-2018",
+  "image": "https://ygoprodeck.com/pics_sets/CT15.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "MP18",
+    "MP18",
+    "MP18",
+    "CT15_C"
+  ]
+}

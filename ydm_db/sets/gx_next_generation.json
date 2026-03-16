@@ -1,0 +1,14 @@
+{
+  "name": "GX Next Generation",
+  "code": "GXNG",
+  "type": "Special Edition",
+  "date": "03-11-2007",
+  "image": "https://ygoprodeck.com/pics_sets/GXNG.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "CRV",
+    "EEN",
+    "SOI",
+    "GXNG_C"
+  ]
+}

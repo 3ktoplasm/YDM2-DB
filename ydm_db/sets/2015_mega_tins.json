@@ -1,0 +1,14 @@
+{
+  "name": "2015 Mega-Tins",
+  "code": "CT12",
+  "type": "Tin",
+  "date": "17-09-2015",
+  "image": "https://ygoprodeck.com/pics_sets/CT12.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "MP15",
+    "MP15",
+    "MP15",
+    "CT12_C"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Forbidden Legacy",
+  "code": "FL1",
+  "type": "Special Edition",
+  "date": "01-10-2005",
+  "image": "https://ms.yugipedia.com//1/1d/FL-PromoEN.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "LOB",
+    "MRD",
+    "SRL",
+    "FL1_C"
+  ]
+}

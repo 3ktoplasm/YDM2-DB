@@ -1,0 +1,15 @@
+{
+  "name": "Duelist Pack Collection Tin 2010",
+  "code": "DPCT",
+  "type": "Tin",
+  "date": "04-03-2010",
+  "image": "https://ygoprodeck.com/pics_sets/DPCT.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "DP09",
+    "DP09",
+    "DP09",
+    "ANPR",
+    "DPCT_C"
+  ]
+}
