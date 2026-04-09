@@ -1,0 +1,251 @@
+{
+  "name": "Booster 5",
+  "code": "BOO5",
+  "type": "Booster Pack",
+  "date": "17-09-1999",
+  "image": "https://images.ygoprodeck.com/images/sets/BOO5.jpg",
+  "pull_type": "distribution",
+  "distribution": "ocg_booster",
+  "cards": [
+    {
+      "id": 94119974,
+      "code": "BOO5-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29491031,
+      "code": "BOO5-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49417509,
+      "code": "BOO5-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76512652,
+      "code": "BOO5-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38289717,
+      "code": "BOO5-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66672569,
+      "code": "BOO5-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99510761,
+      "code": "BOO5-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54098121,
+      "code": "BOO5-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46461247,
+      "code": "BOO5-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96643568,
+      "code": "BOO5-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51228280,
+      "code": "BOO5-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26378150,
+      "code": "BOO5-012",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46700124,
+      "code": "BOO5-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93343894,
+      "code": "BOO5-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12436646,
+      "code": "BOO5-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11714098,
+      "code": "BOO5-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47319141,
+      "code": "BOO5-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72869010,
+      "code": "BOO5-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32569498,
+      "code": "BOO5-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94230224,
+      "code": "BOO5-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29402771,
+      "code": "BOO5-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28563545,
+      "code": "BOO5-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17441953,
+      "code": "BOO5-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53830602,
+      "code": "BOO5-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16507828,
+      "code": "BOO5-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94022093,
+      "code": "BOO5-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55567161,
+      "code": "BOO5-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28450915,
+      "code": "BOO5-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81843628,
+      "code": "BOO5-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54622031,
+      "code": "BOO5-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77998771,
+      "code": "BOO5-031",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60715406,
+      "code": "BOO5-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6103114,
+      "code": "BOO5-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33508719,
+      "code": "BOO5-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29929832,
+      "code": "BOO5-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38116136,
+      "code": "BOO5-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42364257,
+      "code": "BOO5-037",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78637313,
+      "code": "BOO5-038",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24068492,
+      "code": "BOO5-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51452091,
+      "code": "BOO5-040",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}
