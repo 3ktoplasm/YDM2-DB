@@ -1,308 +1,308 @@
 {
-  "name": "Starter Box: Theatrical Release",
-  "code": "SBTR",
+  "name": "Starter Box",
+  "code": "STB1",
   "type": "Starter Deck",
-  "date": "06-03-1999",
-  "image": "https://ms.yugipedia.com//c/c6/Starter_Box_Theatrical_Release.png",
+  "date": "18-03-1999",
+  "image": "https://ms.yugipedia.com//6/68/StarterDeckSB2-JP.png",
   "pull_type": "full",
   "cards": [
     {
       "id": 89631139,
-      "code": "SBTR-001",
+      "code": "STB1-001",
       "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 40575313,
-      "code": "SBTR-002",
+      "code": "STB1-002",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 45231177,
-      "code": "SBTR-003",
+      "code": "STB1-003",
       "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 32274490,
-      "code": "SBTR-004",
+      "code": "STB1-004",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 4931562,
-      "code": "SBTR-005",
+      "code": "STB1-005",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 89091579,
-      "code": "SBTR-006",
+      "code": "STB1-006",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 77827521,
-      "code": "SBTR-007",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 32864,
-      "code": "SBTR-008",
+      "id": 80600490,
+      "code": "STB1-007",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 37421579,
-      "code": "SBTR-009",
+      "code": "STB1-008",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 62793020,
-      "code": "SBTR-010",
+      "code": "STB1-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98075147,
+      "code": "STB1-010",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 34460851,
-      "code": "SBTR-011",
+      "code": "STB1-011",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 61454890,
-      "code": "SBTR-012",
+      "code": "STB1-012",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 36121917,
-      "code": "SBTR-013",
+      "code": "STB1-013",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 17881964,
-      "code": "SBTR-014",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 53375573,
-      "code": "SBTR-015",
+      "code": "STB1-014",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 89558090,
-      "code": "SBTR-016",
+      "code": "STB1-015",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 15820147,
-      "code": "SBTR-017",
+      "code": "STB1-016",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 77581312,
-      "code": "SBTR-018",
+      "code": "STB1-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49370026,
+      "code": "STB1-018",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 2863439,
-      "code": "SBTR-019",
+      "code": "STB1-019",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 1641882,
-      "code": "SBTR-020",
+      "code": "STB1-020",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 1929294,
-      "code": "SBTR-021",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 37313348,
-      "code": "SBTR-022",
+      "code": "STB1-021",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 96851799,
-      "code": "SBTR-023",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 85639257,
-      "code": "SBTR-024",
+      "code": "STB1-022",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 58528964,
-      "code": "SBTR-025",
+      "code": "STB1-023",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 57305373,
-      "code": "SBTR-026",
+      "code": "STB1-024",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 43905751,
-      "code": "SBTR-027",
+      "code": "STB1-025",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 40826495,
-      "code": "SBTR-028",
+      "code": "STB1-026",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 39004808,
-      "code": "SBTR-029",
+      "code": "STB1-027",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 62210247,
-      "code": "SBTR-030",
+      "code": "STB1-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62193699,
+      "code": "STB1-029",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 86421986,
-      "code": "SBTR-031",
+      "code": "STB1-030",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 22910685,
-      "code": "SBTR-032",
+      "code": "STB1-031",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 85309439,
-      "code": "SBTR-033",
+      "code": "STB1-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84686841,
+      "code": "STB1-033",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 83464209,
-      "code": "SBTR-034",
+      "code": "STB1-034",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 82742611,
-      "code": "SBTR-035",
+      "code": "STB1-035",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 18914778,
-      "code": "SBTR-036",
+      "code": "STB1-036",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 44287299,
-      "code": "SBTR-037",
+      "code": "STB1-037",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 87430998,
-      "code": "SBTR-038",
+      "code": "STB1-038",
       "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 23424603,
-      "code": "SBTR-039",
+      "code": "STB1-039",
       "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 50913601,
-      "code": "SBTR-040",
+      "code": "STB1-040",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 86318356,
-      "code": "SBTR-041",
+      "code": "STB1-041",
       "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 22702055,
-      "code": "SBTR-042",
+      "code": "STB1-042",
       "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 59197169,
-      "code": "SBTR-043",
+      "code": "STB1-043",
       "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 12580477,
-      "code": "SBTR-044",
+      "code": "STB1-044",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 58074572,
-      "code": "SBTR-045",
+      "code": "STB1-045",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 46130346,
-      "code": "SBTR-046",
+      "code": "STB1-046",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 24094653,
-      "code": "SBTR-047",
+      "code": "STB1-047",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
       "id": 51482758,
-      "code": "SBTR-048",
+      "code": "STB1-048",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 50045299,
-      "code": "SBTR-049",
+      "code": "STB1-049",
       "rarity": "Common",
       "image_index": 0
     },
     {
       "id": 83887306,
-      "code": "SBTR-050",
+      "code": "STB1-050",
       "rarity": "Common",
       "image_index": 0
     }
